@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Version](./images/readme/screenshot.png)
-![Desktop Version Dark Mode](./images/readme/screenshot-dark.png)
-![Mobile Version](./images/readme/screenshot-mobile.png)
+![Desktop Version](./images/readme/Screenshot.png)
+![Desktop Version Dark Mode](./images/readme/Screenshot-dark.png)
+![Mobile Version](./images/readme/Screenshot-mobile.png)
 
 
 ### Links
